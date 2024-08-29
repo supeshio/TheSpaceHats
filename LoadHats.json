@@ -2,8 +2,7 @@
     "version": "1.0",
     "hats": [
         {
-            "name": "SeonoHats",
-            "url": "https://github.com/seono968/SeonoHats",
+            "repository": "seono968/SeonoHats",
             "jsonUrl":"https://github.com/seono968/SeonoHats/blob/main/CustomHats.json"
         }
     ]
