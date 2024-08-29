@@ -4,8 +4,12 @@
         {
             "name": "SeonoHats",
             "url": "https://github.com/seono968/SeonoHats",
-            "jsonUrl":"https://github.com/seono968/SeonoHats/blob/main/CustomHats.json",
-            "type":"snr"
+            "jsonUrl":"https://github.com/seono968/SeonoHats/blob/main/CustomHats.json"
+        },
+        {
+            "name": "TheSpaceHats",
+            "url": "https://github.com/supeshio/TheSpaceHats",
+            "jsonUrl":"https://github.com/supeshio/TheSpaceHats"
         }
     ]
 }
