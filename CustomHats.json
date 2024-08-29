@@ -1,0 +1,11 @@
+{
+	"hats": [
+		{
+			"name": "test",
+			"author": "スペ塩",
+			"package": "SpaceHats",
+			"condition": "None",
+			"resource": "test.png"
+		}
+	]
+}
