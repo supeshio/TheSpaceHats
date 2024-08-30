@@ -8,6 +8,10 @@
         {
             "repository": "hinakkyu/TheOtherHats/master",
             "jsonUrl":"https://github.com/hinakkyu/TheOtherHats/blob/master/CustomHats.json"
+        },
+        {
+            "repository": "catudon1276/CatudonCostume/main",
+            "jsonUrl":"https://github.com/catudon1276/CatudonCostume/blob/main/CustomHats.json"
         }
     ]
 }
