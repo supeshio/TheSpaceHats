@@ -12,7 +12,7 @@
 			"author": "Voider_",
 			"package": "VoidHats",
 			"condition": "None",
-			"resource": "TrafficJamDanger.png",
+			"resource": "TrafficJamDanger_behind.png",
 			"climbresource": "TrafficJamDanger_climb.png"
 		}
 	]
