@@ -6,6 +6,14 @@
 			"package": "SpaceHats",
 			"condition": "None",
 			"resource": "test.png"
+		},
+		{
+			"name": "TrafficJam-Danger",
+			"author": "Voider_",
+			"package": "VoidHats",
+			"condition": "None",
+			"resource": "TrafficJamDanger.png",
+			"climbresource": "TrafficJamDanger_climb.png"
 		}
 	]
 }
